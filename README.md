@@ -1,7 +1,7 @@
-👋 Hi there, I’m **Shrimayee Deshpande**
-🌱 I’m a **Python developer** interested in **Artificial Intelligence, Machine Learning, and Data Science**
-🧠 As an AI engineer, I focus on **practical problem-solving**, building real-world, implementation-driven AI solutions
-📫 Reach me on **LinkedIn** | **Email**
+- 👋 Hi there, I’m **Shrimayee Deshpande**
+- 🌱 I’m a **Python developer** interested in **Artificial Intelligence, Machine Learning, and Data Science**
+- 🧠 As an AI engineer, I focus on **practical problem-solving**, building real-world, implementation-driven AI solutions
+- 📫 Reach me on **LinkedIn** | **Email**
 
 
 <!--
