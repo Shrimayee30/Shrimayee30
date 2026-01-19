@@ -56,3 +56,7 @@ Bachelor of Technology in Electronics and Computer Engineering (Aug 2019 - May 2
   One-stop web application to book daily domestic help services, designed for residential societies.
   *Tech:* Python, Django, Web Development, Databases
 🔗 [Repository](https://github.com/Shrimayee30/SOFTWEBAPP)
+
+---
+
+If you’ve made it this far, you’ve probably gathered that I enjoy turning everyday problems into systems that are simple, scalable, and actually usable. I’m still learning, as I always am, always will be 🙂
