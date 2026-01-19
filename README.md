@@ -1,4 +1,8 @@
-## Hi there 👋
+👋 Hi there, I’m **Shrimayee Deshpande**
+🌱 I’m a **Python developer** interested in **Artificial Intelligence, Machine Learning, and Data Science**
+🧠 As an AI engineer, I focus on **practical problem-solving**, building real-world, implementation-driven AI solutions
+📫 Reach me on **LinkedIn** | **Email**
+
 
 <!--
 **Shrimayee30/Shrimayee30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
