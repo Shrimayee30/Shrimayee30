@@ -4,17 +4,55 @@
 - 📫 You can reach out to me on [**LinkedIn**](https://www.linkedin.com/in/shrimayee-deshpande-894a6b1b4/) | **Email**: deshpandeshrimayee@gmail.com
 
 
-<!--
-**Shrimayee30/Shrimayee30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education
 
-Here are some ideas to get you started:
+**University of Florida** , Gainesville, FL\
+Master’s in Artificial Intelligence (Aug 2025 - May 2027)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Vellore Institute of Technology**, Chennai, India\
+Bachelor of Technology in Electronics and Computer Engineering (Aug 2019 - May 2023)
+
+## Technical Skills
+
+**Languages**: Python, C/C++, SQL, HTML/CSS, JavaScript (React), Go, Perl\
+**Frameworks**: Flask, Django, FastAPI, Streamlit, Gradio, REST APIs\
+**Libraries**: Pandas, NumPy, scikit-learn, OpenCV, PyTorch\
+**Data & ML**: Data Analysis, Machine Learning, Computer Vision, Trustworthy Machine Learning, Model Evaluation\
+**Automation & DevOps**: Git, CI/CD, Azure DevOps, Ansible, AWX, Shell Scripting\
+**Deployment & Monitoring**: Docker, Azure, AWS, Prometheus, Grafana
+
+
+## My Work
+
+* **AgileAI**
+  AI-powered Agile assistant that converts project descriptions into Epics, Features, and User Stories using end-to-end ML pipelines and system integrations.
+  *Tech:* Python, FastAPI, Gradio, PyTorch, Docker, Azure DevOps, Prometheus, Grafana, Docker
+  🔗 [Repository](https://github.com/Shrimayee30/AgileAI)
+
+* **SweetDex**
+  Computer vision system inspired by Sweetwater Wetlands for bird species identification using image-based classification.
+  *Tech:* Python, OpenCV, scikit-learn, Computer Vision
+  🔗 [Repository](https://github.com/Shrimayee30/SweetDex)
+
+* **Adaptive Defense Against Adversarial & Membership Inference Attacks**
+  Research-focused project exploring robustness and privacy defenses in machine learning models.
+  *Tech:* Python, Trustworthy ML, Tensorflow
+
+* **Software Engineer / Analyst — BlackRock India**
+  2+ years of professional experience working on data engineering, automation, and large-scale software systems in a production environment.
+  📄 [Resume](#)
+
+* **VIvaluaTe**
+  Machine learning–based subjective answer grading system that evaluates scanned student responses using text extraction and similarity-based scoring.
+  *Tech:* Python, Django, NLP, Machine Learning
+  🔗 [Repository](https://github.com/Shrimayee30/Vivaluate)
+
+* **Steganography Toolkit**
+  Web-based application for encoding and decoding text, image, and audio steganography.
+  *Tech:* Python, Flask, Image & Audio Processing
+  🔗 [Repository](https://github.com/Shrimayee3001/audio-stenography-flask)
+
+* **SOFT (Society on Finger Tips)**
+  One-stop web application to book daily domestic help services, designed for residential societies.
+  *Tech:* Python, Django, Web Development, Databases
+🔗 [Repository](https://github.com/Shrimayee30/SOFTWEBAPP)
