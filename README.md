@@ -40,7 +40,7 @@ Bachelor of Technology in Electronics and Computer Engineering (Aug 2019 - May 2
 
 * **Software Engineer / Analyst — BlackRock India**
   2+ years of professional experience working on data engineering, automation, and large-scale software systems in a production environment.
-  📄 [Resume](#)
+  📄 [Resume](https://github.com/Shrimayee30/Shrimayee30/blob/main/Shrimayee_resume.pdf)
 
 * **VIvaluaTe**
   Machine learning–based subjective answer grading system that evaluates scanned student responses using text extraction and similarity-based scoring.
