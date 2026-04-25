@@ -24,6 +24,21 @@ Bachelor of Technology in Electronics and Computer Engineering (Aug 2019 - May 2
 
 ## My Work
 
+* **SLM Ethical Benchmarking**
+  Benchmarking-focused project exploring the ethical behavior, safety, and evaluation of small language models.
+  *Tech:* Python, LLM Evaluation, Responsible AI, Benchmarking
+  🔗 [Repository](https://github.com/Shrimayee30/SLM_Ethical_benchmarking)
+
+* **DreamTales**
+  Creative AI storytelling project centered on generating and shaping imaginative narrative experiences.
+  *Tech:* Python, Generative AI, NLP, Storytelling Systems
+  🔗 [Repository](https://github.com/Shrimayee30/DreamTales)
+
+* **NeuroAlign**
+  Research-oriented project investigating alignment, learning, and representation ideas at the intersection of AI and neuroscience.
+  *Tech:* Python, Machine Learning, Neuroscience, AI Research
+  🔗 [Repository](https://github.com/Shrimayee30/neuroalign)
+
 * **AgileAI**
   AI-powered Agile assistant that converts project descriptions into Epics, Features, and User Stories using end-to-end ML pipelines and system integrations.
   *Tech:* Python, FastAPI, Gradio, PyTorch, Docker, Azure DevOps, Prometheus, Grafana, Docker
